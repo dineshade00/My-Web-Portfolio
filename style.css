@@ -15,6 +15,7 @@
 
 .navbar-brand:hover {
   color: #FFFFFF;
+  radius: 2px;
 }
 
 /* Navbar Link Styling */
